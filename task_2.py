@@ -11,4 +11,4 @@ def filter_1(some_str):
     return filter_str
 
 f = filter_1(example_str)
-print(f)
+print(f) # print 'agc'
